@@ -1,0 +1,10 @@
+${AnsiColor.RED}
+         _                 _                         _ _
+        | |               | |                       (_) |
+     ___| | ___  _   _  __| |  _ __ ___   ___  _ __  _| |_ ___ _ __
+    / __| |/ _ \| | | |/ _` | | '_ ` _ \ / _ \| '_ \| | __/ _ \ '__|
+   | (__| | (_) | |_| | (_| | | | | | | | (_) | | | | | ||  __/ |
+    \___|_|\___/ \__,_|\__,_| |_| |_| |_|\___/|_| |_|_|\__\___|_|
+${AnsiColor.YELLOW}--------------------start-----------------------
+${AnsiColor.YELLOW}       :: ${AnsiColor.GREEN}Running ${AnsiColor.RED}${hsweb.app.name} ${AnsiColor.YELLOW}(${hsweb.app.version})
+${AnsiColor.YELLOW}------------------------------------------------${AnsiColor.WHITE}
